@@ -4,7 +4,11 @@ background-color: tomato;
 color: springgreen;
 font-family: cursive, helvetica, sans-serif;
 }
-ol {list-style-type: lower-alpha;
+div {
+    width: 300px;
+    padding: 25px;
+    box-sizing: border-box;
+}
+ul {list-style-type: lower-alpha;
 padding: 5em;
-    
 }
